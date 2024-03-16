@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Click</string>
+    <string name="click_score">Кнопка нажата %d раз</string>
+    <string name="bolshe_button">Увеличить</string>
+    <string name="menshe_button">Уменьшить</string>
+    <string name="sbros_button">Сбросить</string>
+</resources>
